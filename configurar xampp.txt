@@ -1,0 +1,6 @@
+C:\xampp\php directory and change the
+
+php ini cambiar:
+;extension=php_sockets.dll 
+to
+extension=php_sockets.dll
